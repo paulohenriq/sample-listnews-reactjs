@@ -1,0 +1,19 @@
+{
+	"news": [{
+			"id": "1",
+			"date": "24/10/2018",
+			"title": "Google obriga fabricantes a oferecer 2 anos de atualizações para Android",
+			"author": "LEONARDO MÜLLER",
+			"photo": "https://img.ibxk.com.br//2018/10/24/24170229187339-t1200x480.jpg",
+			"text": "Segundo apurou a reportagem do The Verge, a Google vem exigindo que as fabricantes de smartphones Android que utilizam seu pacote de apps (Play Store, Gmail, Drive etc.) entreguem atualizações de segurança regulares aos consumidores no mínimo por dois anos. Isso não vale para atualizações de versão, mas sim apenas para atualizações de segurança, aquelas que a Google lança mensalmente, e as fabricantes e operadoras nem sempre distribuem. Com a nova exigência, entretanto, as empresas envolvidas terão até 90 dias para corrigir falhas de segurança contando a partir do dia em que elas foram identificadas e corrigidas pela Google.Isso está explícito no novo contrato de certificação de aparelhos que a Google faz com fabricantes parceiras."
+		},
+		{
+			"id": "2",
+			"date": "30/10/2018",
+			"title": "Apple e Samsung são multadas por reduzir velocidade de celulares antigos na Itália",
+			"author": "France Presse",
+			"photo": "https://s2.glbimg.com/wmNsbMLTz7F5ggCMykMlQGl53O0=/0x0:620x450/1000x0/smart/filters:strip_icc()/s.glbimg.com/jo/g1/f/original/2012/09/03/01ziphoneesamsung_prontoo.jpg",
+			"text": "Segundo apurou a reportagem do The Verge, a Google vem exigindo que as fabricantes de smartphones Android que utilizam seu pacote de apps (Play Store, Gmail, Drive etc.) entreguem atualizações de segurança regulares aos consumidores no mínimo por dois anos. Isso não vale para atualizações de versão, mas sim apenas para atualizações de segurança, aquelas que a Google lança mensalmente, e as fabricantes e operadoras nem sempre distribuem. Com a nova exigência, entretanto, as empresas envolvidas terão até 90 dias para corrigir falhas de segurança contando a partir do dia em que elas foram identificadas e corrigidas pela Google.Isso está explícito no novo contrato de certificação de aparelhos que a Google faz com fabricantes parceiras."
+		}
+	]
+}

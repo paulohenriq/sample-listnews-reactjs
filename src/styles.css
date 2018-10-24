@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box; /* Isto faz com que o elemento não aumente a largura/altura ao adicionar um padding */
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #FAF9F9;
+    color: #333;
+}
